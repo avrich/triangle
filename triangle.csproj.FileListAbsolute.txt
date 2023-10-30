@@ -1,0 +1,11 @@
+C:\Users\ada\source\repos\triangle\triangle\bin\Debug\triangle.exe.config
+C:\Users\ada\source\repos\triangle\triangle\bin\Debug\triangle.exe
+C:\Users\ada\source\repos\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.Properties.Resources.resources
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.csproj.GenerateResource.cache
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.exe
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.pdb
+C:\Users\ada\source\repos\triangle\triangle\obj\Debug\triangle.Form1.resources
